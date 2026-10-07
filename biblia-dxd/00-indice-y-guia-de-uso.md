@@ -51,7 +51,7 @@ Reglas de oro al usarla:
 | 26 | `26-anime-vs-novela.md` | Diferencias anime/novela y qué canon usar al escribir. |
 | 27 | `27-mexico-integracion.md` | Diseño de integración de México: facción mesoamericana, criaturas como héroes/villanos/antihéroes, sistemas de poder, arcos y localizaciones. |
 | 28 | `28-jesus-diseno-visual-v0.md` | Jesús Reyes — diseño visual y núcleo (v1): físico, Miztón, chūnibyō, decisiones fijadas y preguntas abiertas. |
-| 29 | `29-jesus-trasfondo-v0.md` | Jesús — trasfondo "estilo Percy" (v0): beats del outline, mapa de alineación con el canon, reconciliaciones y decisiones abiertas. |
+| 29 | `29-jesus-trasfondo-v0.md` | Jesús — trasfondo y origen (v1): outline Percy, 5 decisiones cerradas, Miztón=Xólotl, junta diplomática y doctrina de equilibrio DxD/México. |
 
 ---
 

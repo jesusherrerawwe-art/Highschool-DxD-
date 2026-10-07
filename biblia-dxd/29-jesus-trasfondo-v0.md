@@ -1,89 +1,57 @@
-# 29 — JESÚS · TRASFONDO Y ORIGEN (outline "estilo Percy" v0)
+# 29 — JESÚS · TRASFONDO Y ORIGEN (v1 — decisiones cerradas)
 
-> **ESTADO: v0** (2026-10-07). Transcribe el outline del usuario (estructura *Percy Jackson y el Ladrón del Rayo*), mapea cada elemento contra el canon de la biblia (docs 27/28), propone reconciliaciones donde hay tensión y lista decisiones abiertas. El usuario declaró apertura total a sugerencias.
-
----
-
-## 1. EL OUTLINE DEL USUARIO (beats, fiel y condensado)
-
-1. **Jesús Antonio [¿Reyes o Gutiérrez?] Calavera**, ~16 años, clase media, **Guadalajara**. Padre ausente; madre (**Alejandra**) y abuela amorosas. Geek de cómics y del folklore mexicano; introvertido; corazón de oro.
-2. Su cómic favorito: ***"Guardianes de Almas"***. Su mejor amigo/mentor: **César**, su profesor de historia (el "Quirón mexicano").
-3. Desde niño **ve lo que otros no ven**: criaturas de colores volando (alebrijes), esqueletos caminando por el centro (emisos del Mictlán), sollozos nocturnos de una mujer que busca a sus hijos (La Llorona), y maullidos de un gato negro que murió el año pasado (Miztón).
-4. Al inicio creyó estar loco; luego **abrazó la visión** y se autoproclamó en secreto ***"El Príncipe Calavera"*** — apodo que su madre adoptó con cariño pero que también la preocupaba: **Alejandra conoce la verdadera naturaleza de su hijo desde el inicio** (paralelo a la madre de Percy) y esperaba el momento correcto para revelarle la verdad.
-5. **Incidente del museo:** viaje escolar a un museo con antigüedades mayas/aztecas. **Sofía**, la crush de Jesús, lo invita a "tiempo a solas" en una sala oscura. César nota algo raro y los sigue.
-6. Sofía se transforma en un demonio alado, miembro del **Culto del Sexto Sol**; revela que **el abuelo de Jesús la envió** a vigilarlo y eventualmente deshacerse de él. Lo levanta por el cuello y monologa: el culto sirve a **las Tzitzimimeh** (demonios estelares que descienden en eclipses); buscan **derrocar a los Señores de Xibalbá** para tomar el poder del infierno maya y **acelerar el fin del Quinto Sol** y despertar un mundo nuevo.
-7. El reveal: **Jesús es hijo de Quetzalcóatl**, la Serpiente Emplumada, y el único que puede detenerlos.
-8. **César irrumpe con un macuahuitl enorme**, hiere a Sofía y la hace retirarse (ella advierte: "esto no termina").
-9. En casa, Alejandra se angustia al verlo herido; César le dice: **"ya es hora."** *(El outline termina aquí.)*
+> **ESTADO: v1** (2026-10-07). v0 = outline "estilo Percy" del usuario + mapa de alineación. v1 = el usuario cerró las 5 decisiones abiertas y añadió 2 puntos extra (Miztón = Xólotl; la junta diplomática). Incluye la **doctrina de equilibrio DxD/México** que rige todo el proyecto. Los beats completos del v0 quedan condensados en §1.
 
 ---
 
-## 2. MAPA DE ALINEACIÓN CON LA BIBLIA (lo que YA encaja)
+## 1. OUTLINE BASE (condensado del v0)
 
-| Elemento del outline | Canon existente | Veredicto |
+Jesús, 16, Guadalajara, clase media; padre ausente, madre **Alejandra** y abuela amorosas; geek de cómics (*"Guardianes de Almas"*) y folklore; desde niño **ve criaturas** (alebrijes, emisarios del Mictlán, La Llorona, el gato negro muerto). Se autoproclama en secreto **"El Príncipe Calavera"**; su madre sabe su verdadera naturaleza desde el inicio. Viaje escolar al museo → **Sofía** (crush) lo atrae a una sala oscura → se transforma en demonio alado del **Culto del Sexto Sol** (sirven a las **Tzitzimimeh**; quieren derrocar a los **Señores de Xibalbá** para acelerar el fin del Quinto Sol); revela que **el abuelo de Jesús** la envió. Reveal: Jesús es **hijo de Quetzalcóatl**. **César** (profesor de historia, su Quirón) la ahuyenta con un macuahuitl. En casa, Alejandra y César: **"ya es hora."**
+
+## 2. DECISIONES CERRADAS (v1)
+
+| # | Decisión | Canon |
 |---|---|---|
-| Culto del Sexto Sol | Doc 27 §villanos | ✔ idéntico |
-| Tzitzimimeh + eclipses | Doc 27 §villanos | ✔ idéntico |
-| Señores de Xibalbá | Doc 27 §capa maya | ✔ idéntico (y el giro "villanos vs villanos" añade política) |
-| Criaturas de colores = alebrijes | Doc 27 §5.3 | ✔ |
-| Esqueletos = emisarios del Mictlán | Doc 27 §Mictlán | ✔ |
-| Sollozos = La Llorona | Doc 27 §antihéroes | ✔ |
-| Gato negro muerto = Miztón | Doc 28 §4 | ✔ (la "visión" precede su manifestación: perfecto) |
-| Guadalajara | Doc 27 §8 (entrada propuesta) | ✔ |
-| "El Príncipe Calavera" | Doc 28 §5 (chūnibyō) | ✔ (alias secreto → nombre de héroe real: arco completo) |
-| Madre que sabe | Paralelo Percy + doc 28 §4 (abuela/ofrenda) | ✔ (eje emocional familiar ya sembrado) |
-| César-Quirón con macuahuitl | Doc 27 §5.4 (armas de itztli/obsidiana) | ✔ estética |
+| 1 | Nombre completo | **Jesús Antonio Reyes Calavera.** "Reyes" = alias humano del padre (conserva el OC del hermano y *The Reyes Chronicles*); "Calavera" = línea materna. |
+| 2 | Fuente de poder | **Sacred Gear que alberga la Pluma de Quetzalcóatl** (espejo de Boosted Gear+Ddraig; canon-friendly por clasificación dragoniana, doc 27). Diseño fino pendiente en sesión dedicada. |
+| 3 | Entrada de Rias | **Segundo ataque en Guadalajara que César NO puede detener** → Rias lo salva al borde de la muerte → reencarnación devil (híbrido semidiós-devil, precedente Gasper) → **Rias lo lleva a la Academia Kuoh**, la base de operaciones ("nuestro Campamento Mestizo"). México = misiones/arcos de evento; Kuoh/ORC = casa. |
+| 4 | César | **Descendiente de los Gemelos Héroes mayas** (semilla doc 27). Se queda en México como ancla local; reaparece en arcos de vacaciones/evento. |
+| 5 | Abuelo traidor | **Don Aurelio Calavera**, patriarca de la línea materna, patrón del Culto del Sexto Sol. La abuela lo sabe: su ofrenda es escudo secreto contra su propio esposo. |
 
-**Conclusión:** el outline NO contradice el doc 27; lo *activa*. Las tensiones reales son pocas y se listan abajo.
+## 3. MIZTÓN = XÓLOTL (reveal del usuario)
 
----
+- **Verdad:** el "gato" es **Xólotl, hermano gemelo de Quetzalcóatl** (tío de Jesús), enviado por el padre como protección extra; **tomó prestado el ancla-almá del gato fallecido** — la ofrenda de la abuela lo mantenía atado — y se quedó en esa forma.
+- **Mito como fundamento:** en el mito, Xólotl es **el guía de las almas al Mictlán** → el gancho "solo Miztón conoce el camino de los Nueve Niveles" (doc 28 §4) queda justificado por el mito mismo. La dinámica Puck–Emilia **se eleva** a **tío-sobrino**: es familia.
+- **¿Gato o perro?** Se conserva la **forma de gato**, con cuatro razones canon: (1) **camuflaje**: el culto escanea la firma perruna de Xólotl; un gato no dispara sus alarmas; (2) **ancla**: la ofrenda era del gato — ahí estaba la puerta; (3) **consuelo**: tomó la forma de la mascota cuya muerte rompió el corazón de Jesús; (4) **comedia**: un dios-perro obligado a maullar ("Soy Xólotl, llama del ocaso, terror del Mictlán… *miau*"). **Forma verdadera:** xoloitzcuintle divino de obsidiana y relámpago.
+- **Nombre:** Jesús lo sigue llamando **Miztón** por cariño; Xólotl finge fastidio y lo permite.
+- **Defaults provisionales (ajustables):** telepatía con Jesús; para mortales se percibe como gato negro común (velo de percepción); seres sobrenaturales ven los patrones alebrije.
 
-## 3. TENSIONES Y RECONCILIACIONES PROPUESTAS
+## 4. LA JUNTA DIPLOMÁTICA (dispositivo de fuera de escena)
 
-### 3.1 Quetzalcóatl: ¿mentor (doc 27) o padre (outline)?
-**Ambos.** Doc 27 lo diseñó como figura dragoniana *debilitada/trágica*. Eso ahora se relee como **padre ausente por fuerza**: duerme/declina porque su fe murió tras la Conquista. El outline le da causa emocional al estado del doc 27. Bonus estructural: **inversión de la ofrenda** — así como la fe de la abuela devolvió a Miztón, los actos heroicos del hijo pueden **devolverle fe al padre** y despertarlo. El arco de Jesús = el arco de restauración de Quetzalcóatl. Mentoría directa queda para sueños/fragmentos + César en vigilia.
+- Xólotl le explica a Jesús que varias figuras del folklore —**incluido su padre debilitado**— están en una **"junta diplomática"** para detener a las Tzitzimimeh; le dice que todo estará bien, **aunque sabe que es cuestión de tiempo** que se salga de control. Sugiere que Jesús se quede con **Rias: él confía en ella.**
+- **Semilla de confianza (a elegir):** Xólotl conoce a Rias de una visita de cortesía Gremory a la Alianza del Quinto Sol; o: Xólotl lee almas (gemelo de la llama del ocaso) y la leyó en el momento del rescate.
+- **Función estructural:** la junta mantiene a los dioses mexicanos **fuera de escena** → el escenario queda libre para las facciones DxD y Rias; México entra por Xólotl, César, el culto y los arcos-evento. Cuando la junta **falle**, eso dispara el crossover donde las Tres Facciones intervienen (recentra DxD en el endgame).
 
-### 3.2 El abuelo traidor
-Asignarlo a la **línea materna (Calavera)**: el abuelo = esposo de la abuela de la ofrenda. La familia queda partida en dos fes: la abuela sostiene la ofrenda (luz) mientras su esposo sirve al Sexto Sol (sombra) — y ella lo sabe, por eso su ofrenda también es un escudo secreto contra su propio marido. El alias **"Príncipe Calavera"** gana tema: Jesús elige *cuál Calavera* ser. Semilla de reloj de arena: el abuelo no lo mata antes porque el sacrificio del hijo de Quetzalcóatl requiere **ventana de eclipse** (coherente con Tzitzimimeh).
+## 5. DOCTRINA DE EQUILIBRIO: DxD ES EL SISTEMA OPERATIVO; MÉXICO ES LA APP MÁS HERMOSA
 
-### 3.3 Fuente de poder: ¿sangre o Sacred Gear?
-Tres opciones canon-compatibles; **recomendada la B**:
-- A) Sangre divina pura (despertar de tonalli/nagual, doc 27 §5.1).
-- B) **Sacred Gear que alberga una pluma/fragmento de Quetzalcóatl** — espejo directo de Boosted Gear+Ddraig, y canon-friendly porque doc 27 ya clasifica a Quetzalcóatl como entidad *dragoniana*: fragmento dragoniano en gear = mecánica idéntica a la de los Heavenly Dragons. Le da sistema de crecimiento, nombres de técnicas y diálogo con el lore DxD.
-- C) Ambas (sangre latente + gear como válvula).
-El diseño fino de la gear queda pendiente (sesión dedicada).
+El usuario detectó el riesgo correcto: que el lore mexicano pese más que el de DxD. Reglas de proyecto:
 
-### 3.4 ¿Dónde entra DxD / Rias?
-El Acto 1 del outline es 100% mesoamericano; DxD necesita puerta. Opciones:
-- **(a) RECOMENDADA:** Rias (y parte de su peerage) está en Guadalajara por el **eclipse inminente / reliquias del museo** (el museo como bodega vigilada por facciones: Azazel colecciona artefactos mesoamericanos, doc 27 §9). Ella salva a Jesús en el clímax del Acto 1 cuando la herida de Sofía + un enxambre tzitzimimeh lo dejan al borde de la muerte → **reencarnación como devil** → híbrido **semidiós-devil** (precedente de híbridos raros: Gasper dhampir). Drama político gratis: la Alianza del Quinto Sol no ama que "su" príncipe vuelva devil.
-- (b) Acto 2 en Kuoh: Jesús viaja a Japón por seguridad/diplomacia; entrada clásica. Más lenta para Rias (y el hermano es team Rias).
-El museo con reliquias mayas/aztecas ya justifica que las facciones tengan ojos ahí desde antes del incidente.
+1. **Acto 1 comprimido.** Prólogo + pocos capítulos en Guadalajara; llegada temprana a Kuoh. **Kuoh/ORC = casa** ("Campamento Mestizo"); **México = misiones, vacaciones, arcos-evento** (modelo Percy, locaciones DxD).
+2. **Todo elemento mexicano se enchufa a una máquina DxD.** La Pluma = Sacred Gear (Azazel la estudia, la Iglesia la teme, tiene clasificación del sistema); las técnicas mexicanas **se lucen en Rating Games**; los villanos se fusionan: el Culto del Sexto Sol como frente/célula aliada o manipulada por villanos DxD (Khaos Brigade / Facción del Antiguo Maou).
+3. **El techo del mundo sigue siendo DxD.** Tres Facciones, Sirzechs/Ajuka/Azazel, Ddraig/Albion, Trihexa. Quetzalcóatl = dragoniano pero **debajo de los dos Dragones Celestiales** (doc 27). Si la junta falla, **las Tres Facciones intervienen** → DxD recentra el endgame.
+4. **El elenco DxD dueña de arcos.** El lore mexicano sirve al crecimiento del ORC: Akeno y el alma de su madre en Día de Muertos; Koneko leyendo a Xólotl (nekomata vs dios-gato-perro); Gasper y el vínculo Camazotz (doc 27). México nunca debe ser un show aparte: debe darle escenas a los personajes DxD.
+5. **Rias = espina A; México = espina B.** La política de Rias (Riser/Phenex, Gremory–Bael, su herencia) manda en página; las tramas mexicanas entretejen pero no desplazan.
 
-### 3.5 Apellido (conflicto con "Jesús Reyes" del hermano y el README "The Reyes Chronicles")
-- Opción 1 (recomendada): padre humano-encarnado de Quetzalcóatl usaba el alias **"Reyes"** → nombre legal **Jesús Antonio Reyes Calavera**. Conserva al OC del hermano y el título del repo; "Calavera" = línea materna temática.
-- Opción 2: mantener **Gutiérrez Calavera** y retirar "Reyes" (requiere retitular README y reajustar el OC del hermano).
-- Opción 3: "Reyes" como alias de héroe público / firma de sus cómics fans.
-**Decisión pendiente del usuario.**
+**Marco de género:** *un Highschool DxD con corazón mexicano — no una historia mexicana con invitados de DxD.*
 
-### 3.6 ¿Qué es César?
-Opciones: (a) **descendiente moderno de los Gemelos Héroes mayas** (semilla en doc 27 §capa maya) — Quirón perfecto; (b) nahual-jaguar (doc 27 §5.1); (c) miembro retirado de **Los Enmascarados** (doc 27 §5.4) → profesor de día, luchador guardian de noche. Todas compatibles con macuahuitl de obsidiana.
+## 6. ABIERTOS
 
-### 3.7 Semillas extra (opcionales, del outline)
-- ***Guardianes de Almas*** inquietantemente preciso → autor = nahual que publica la verdad como ficción, o filtración Grigori. Gag + lore.
-- Sofía: humana con **pacto estelar tzitzimimeh** (alas de luz negra/obsidiana); rival recurrente con fallout social en la escuela.
-- Alejandra: sangre **nahual latente** de la línea Calavera → explica que "supiera desde el inicio".
+1. **Diseño fino de la Sacred Gear "Pluma de Quetzalcóatl"** (sesión dedicada): nombre japonés, formas, técnicas, límites, espejo-Ddraig.
+2. **Beat-sheet del Acto 1** con los dos ataques y la entrada de Rias (sesión dedicada).
+3. Razón de la confianza de Xólotl en Rias (semillas en §4).
+4. Confirmar defaults de Miztón (telepatía/velo) — §3.
+5. Naturaleza de Alejandra (sangre nahual latente, semilla v0).
+6. Autoría de *"Guardianes de Almas"* (semilla pendiente).
 
----
-
-## 4. DECISIONES ABIERTAS (para cerrar en próximas sesiones)
-
-1. Apellido canon (Reyes vs Gutiérrez) — §3.5.
-2. Fuente de poder (A/B/C) — §3.3.
-3. Entrada de Rias (a/b) — §3.4.
-4. Naturaleza de César — §3.6.
-5. Abuelo traidor: confirmar línea materna + nombre (propuesta: **Don Aurelio Calavera**, patriarca respetable de día).
-6. Diseño fino de la Sacred Gear (sesión dedicada).
-7. Detalles pendientes de Miztón (habla/visibilidad/forma verdadera) — doc 28 §7.
-
-## 5. REFERENCIAS CRUZADAS
-Docs 27 (México), 28 (diseño v1), 13 (decisiones de historia), 07 (ficha maestra pendiente), 02 (cosmología/pantheons para semidiós), 05 (Sacred Gears).
+## 7. REFERENCIAS CRUZADAS
+Docs 27 (México), 28 (diseño v1; Miztón §4), 13 (decisiones), 07 (ficha maestra), 05 (Sacred Gears), 02 (cosmología), 01/13 (cuando se migre la doctrina de equilibrio).

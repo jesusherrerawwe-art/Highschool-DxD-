@@ -29,12 +29,12 @@ Púrpura/violeta en el arte. **Sigue en propuesta** (ver §7): se recomienda can
 
 ## 4. MIZTÓN — familiar (FIJADO)
 
-- **Identidad:** el gato de la familia que **falleció y regresó como alebrije**, protector y compañero de Jesús.
+- **Identidad (v1):** el gato de la familia que falleció… pero la verdad es más profunda: **Xólotl, hermano gemelo de Quetzalcóatl (tío de Jesús)**, tomó prestado el ancla-alma del gato —la ofrenda de la abuela lo mantenía atado— enviado por el padre como protección extra. La forma de gato es camuflaje (el culto escanea la firma perruna de Xólotl), ancla y consuelo. Forma verdadera: xoloitzcuintle divino de obsidiana y relámpago. Detalles y razones en doc 29 §3.
 - **Dinámica de referencia:** **Puck–Emilia (Re:Zero)** — acompañante constante, juguetón y burlón, devoción absoluta, y poder protector abrumador cuando Jesús está en peligro real.
 - **Estética (del arte):** gato negro pequeño, alas de murciélago, cuerno(s), cola en espiral, ojos púrpura grandes, patrones morados tipo alebrije.
 - **Gancho narrativo nuevo (crítico):** Miztón **ya cruzó la muerte y volvió** → conoce el camino entre el mundo vivo y el Mictlán → es el **guía natural del Arco B (los Nueve Niveles)** del doc 27. Nadie más en el elenco puede hacer eso.
 - **Semilla de origen (propuesta):** lo que lo trajo de vuelta fue la **ofrenda** — la abuela siguió poniendo su platito y su foto cada Día de Muertos, y esa fe lo ancló y lo devolvió como alebrije. Conecta su existencia con el sistema de fe/ofrenda del doc 27 y con el medallón/abuela como eje emocional de Jesús.
-- **Abiertos (ver §7):** habla (¿telepatía con Jesús, maullidos para el resto?), visibilidad (¿todos lo ven o solo Jesús?), forma verdadera (¿alebrije-jaguar gigante al proteger?), relación con Mictlantecuhtli (¿el Señor del Mictlán "permite" su regreso y cobra algo?).
+- **Defaults provisionales (v1, ver doc 29 §3):** telepatía con Jesús; para mortales se percibe como gato negro común (velo de percepción); seres sobrenaturales ven los patrones alebrije; forma verdadera = Xólotl (xoloitzcuintle divino). Relación con Mictlantecuhtli: Xólotl ES el guía mítico de las almas → su regreso es jurisdicción propia; posible fricción cómica/seria con el Señor del Mictlán por "trabajar sin permiso".
 
 ## 5. PERFIL PSICOLÓGICO (FIJADO): chūnibyō ligero
 
@@ -51,7 +51,7 @@ Púrpura/violeta en el arte. **Sigue en propuesta** (ver §7): se recomienda can
 ## 7. PREGUNTAS ABIERTAS (para próximas sesiones)
 
 1. ¿Se canoniza el **aura púrpura** como firma de atributo? (Recomendado: sí.)
-2. Detalles de **Miztón**: habla, visibilidad, forma verdadera, quién permitió su regreso.
+2. ~~Detalles de Miztón~~ → **RESUELTO en v1**: Miztón = Xólotl (doc 29 §3); defaults de habla/visibilidad/forma fijados provisionales aquí §4.
 3. **Sacred Gear** de Jesús (doc 13 §2) — el diseño grande pendiente; debe dialogar con Miztón, el chūnibyō y su lado mexicano.
 4. **Familia y origen** (propuesta Jalisco/Guadalajara–Zapopan, doc 27 §8; la abuela de la ofrenda ya es semilla de familia).
 5. Resto de decisiones de historia del doc 13 §2: nivel ecchi, alcance del harem, villano principal, longitud.
