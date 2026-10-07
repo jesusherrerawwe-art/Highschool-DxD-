@@ -52,6 +52,9 @@ El usuario detectó el riesgo correcto: que el lore mexicano pese más que el de
 4. Confirmar defaults de Miztón (telepatía/velo) — §3.
 5. Naturaleza de Alejandra (sangre nahual latente, semilla v0).
 6. Autoría de *"Guardianes de Almas"* (semilla pendiente).
+7. **ALTERNATIVAS EDITORIALES EN MESA (decisión del usuario, 2026-10-07):** (a) *la Pluma empieza vacía*: sangre divina como deuda, no batería — la gear despierta dormida y se llena con actos/fe (lógica de ofrenda, doc 27): reveal Percy + motor Issei; (b) *Sofía coaccionada, no traidora pura*: Don Aurelio tiene a su familia; vacila en plena pelea (por eso gana César) → rival con arco de redención ("la Akeno mexicana"); (c) *segundo ataque en dos beats*: Xólotl rompe el camuflaje (forma verdadera) y AÚN no basta → Rias cierra el rescate.
+8. **Recalibración de chūnibyō:** ahora que Jesús SÍ es especial, la persona no se rompe por "no ser especial" sino por **miedo a serlo**: el día que deje de narrar su vida como cómic será el día que acepte que el peso es real.
+9. **Camino descartado (registro editorial):** padre = Tezcatlipoca (sangre de noche/contienda, drama de antihéroe) — descartado por tono: para un regalo de cumpleaños, Quetzalcóatl (esperanza + sinergia dragoniana DxD) es el correcto.
 
 ## 7. REFERENCIAS CRUZADAS
 Docs 27 (México), 28 (diseño v1; Miztón §4), 13 (decisiones), 07 (ficha maestra), 05 (Sacred Gears), 02 (cosmología), 01/13 (cuando se migre la doctrina de equilibrio).
