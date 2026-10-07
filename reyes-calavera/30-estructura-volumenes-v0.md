@@ -83,6 +83,8 @@ Kioto/Yasaka, Loki, torneo internacional de Rating Games, era universitaria, Xib
 | «¡Lo sabía! ¡Página 47!» (predicciones chūnibyō) | V1 | V7: el día que deje de narrar = clímax emocional |
 | Híbrido semidiós-devil (tensión política Alianza–Gremory) | V1 Cap 4 | Vols 3 y 6: roces diplomáticos |
 | Hábitos del padre (chocolate/amaneceres, relato de Alejandra) | V1 Cap 3 | Encuentro con el padre (Vol 5 / S2) |
+| Carta guardada de «Reyes», sin leer | V1 Cap 3 | Encuentro con el padre (Vol 5) |
+| La quinta taza / la silla vacía | V1 Cap 3 | Motivo recurrente; la mesa del padre (Vol 5/7) |
 | Bolsita de sal/copal de Lupita | V1 Cap 6 | Vol 5 Mictlán (práctico + emocional) |
 | Sin-reflejo / sombra estelar de Aurelio | V1 Cap 5/epílogo | Vol 7: lo delata |
 | Emilio (†12), el duelo partido en dos | V1 epílogo (semilla) | Vol 7: el retrato como derrota |
