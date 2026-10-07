@@ -82,6 +82,14 @@ Kioto/Yasaka, Loki, torneo internacional de Rating Games, era universitaria, Xib
 | «Aquí solo juegan mexicanos» (Chivas) | V1 | V3: gag de presentación en Rating Game; V7: eco serio |
 | «¡Lo sabía! ¡Página 47!» (predicciones chūnibyō) | V1 | V7: el día que deje de narrar = clímax emocional |
 | Híbrido semidiós-devil (tensión política Alianza–Gremory) | V1 Cap 4 | Vols 3 y 6: roces diplomáticos |
+| Hábitos del padre (chocolate/amaneceres, relato de Alejandra) | V1 Cap 3 | Encuentro con el padre (Vol 5 / S2) |
+| Bolsita de sal/copal de Lupita | V1 Cap 6 | Vol 5 Mictlán (práctico + emocional) |
+| Sin-reflejo / sombra estelar de Aurelio | V1 Cap 5/epílogo | Vol 7: lo delata |
+| Emilio (†12), el duelo partido en dos | V1 epílogo (semilla) | Vol 7: el retrato como derrota |
+| Alias «Príncipe» = profecía del culto | V1 Cap 5 (Aurelio lo usa) | Vol 7: rechazar el título |
+| Micro-vacilación / recuerdos comidos de Sofía | V1 Cap 2 | Vol 7: elección/redención |
+| Hermana perdida de César | V1 (semilla, doc 31 §3) | Temporada 2 |
+| Vislumbre de La Planchada por Alejandra | V1 (semilla, doc 31 §1) | Escena hospital futura |
 
 ## DECISIONES FIJADAS ESTE TURNO
 1. Infancia = **prólogo de viñetas** ✔.

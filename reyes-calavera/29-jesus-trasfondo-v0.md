@@ -50,7 +50,7 @@ El usuario detectó el riesgo correcto: que el lore mexicano pese más que el de
 2. **Beat-sheet del Acto 1** con los dos ataques y la entrada de Rias (sesión dedicada).
 3. Razón de la confianza de Xólotl en Rias (semillas en §4).
 4. Confirmar defaults de Miztón (telepatía/velo) — §3.
-5. Naturaleza de Alejandra (sangre nahual latente, semilla v0).
+5. ~~Naturaleza de Alejandra~~ → **RESUELTO (doc 31 §1):** sangre nahual latente = premoniciones maternas, sin transformación.
 6. Autoría de *"Guardianes de Almas"* (semilla pendiente).
 7. **ALTERNATIVAS EDITORIALES EN MESA (decisión del usuario, 2026-10-07):** (a) *la Pluma empieza vacía*: sangre divina como deuda, no batería — la gear despierta dormida y se llena con actos/fe (lógica de ofrenda, doc 27): reveal Percy + motor Issei; (b) *Sofía coaccionada, no traidora pura*: Don Aurelio tiene a su familia; vacila en plena pelea (por eso gana César) → rival con arco de redención ("la Akeno mexicana"); (c) *segundo ataque en dos beats*: Xólotl rompe el camuflaje (forma verdadera) y AÚN no basta → Rias cierra el rescate.
 8. **Recalibración de chūnibyō:** ahora que Jesús SÍ es especial, la persona no se rompe por "no ser especial" sino por **miedo a serlo**: el día que deje de narrar su vida como cómic será el día que acepte que el peso es real.
