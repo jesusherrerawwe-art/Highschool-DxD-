@@ -1,53 +1,79 @@
-# 30 — ESTRUCTURA DE LA HISTORIA · TRILOGÍA "REYES CALAVERA" (propuesta v0)
+# 30 — ESTRUCTURA DE LA HISTORIA · "REYES CALAVERA" (v1 — trilogía expandida a 7 volúmenes)
 
-> **ESTADO: v0** (2026-10-07). Propuesta refinada sobre el boceto de 3 volúmenes del usuario (declarado no definitivo). Respeta la trilogía y le añade huesos de pacing. **Doctrina de escalada DxD (doc 01):** amenaza local → amenaza de facción/sociedad → amenaza mundial. El boceto del usuario YA sigue esa escalada por instinto.
+> **ESTADO: v1** (2026-10-07). v0 = esqueleto de 3 volúmenes + fixes. v1 = el usuario confirma: infancia en prólogo de viñetas; **Día de Muertos en Vol I**; harem SIN definir aún; y autoriza **expandir volúmenes** porque el hermano querrá ver a Jesús en **eventos canon** además del lore original. La trilogía del usuario sobrevive como **macro-actos**: Acto I origen (Vol 1) · Acto II Kuoh (Vols 2–4) · Acto III colisión (Vols 5–7).
 
 ## 0. PRINCIPIOS RECTORES
-- Escalada doc 01: Vol I = amenaza local (culto en Guadalajara); Vol II = sociedad/facción (sociedad devil, Rating Game); Vol III = amenaza mundial (Tzitzimimeh + Tres Facciones).
-- Doctrina de equilibrio (doc 29 §5): Kuoh/ORC = casa; México = misiones/eventos.
-- Mapeo de arcos del doc 27: **C (lucha) y D (Día de Muertos) = Vol II; A (eclipse), B (Mictlán) y E (Sexto Sol) = Vol III; F (Xibalbá) = gancho de Temporada 2.**
+
+- **Escalada DxD (doc 01):** local → facción/sociedad → mundial.
+- **Equilibrio (doc 29 §5):** Kuoh/ORC = casa; México = misiones/eventos.
+- **INTEGRACIÓN DE CANON (nuevo):**
+  1. *Eco del canon, no copia:* cada evento canon se re-escenifica con Jesús en el rol funcional de Issei, pero con **consecuencias mariposa** distintas por sus elementos mexicanos.
+  2. *Dos espinas por volumen:* motor canon (A) + hilo mexicano avanzando (B). Excepciones permitidas: Vol 1 (origen puro) y Vol 5 (misión mexicana, pero con elenco DxD de acompañante).
+  3. *Jesús reemplaza la FUNCIÓN de Issei, no el reparto:* los personajes canon conservan sus escenas y momentos (el hermano quiere ver AMBOS mundos).
+  4. *Calendario canon:* doc 23 rige el orden de eventos; doc 21 el calendario escolar JP.
 
 ---
 
-## VOLUMEN I — «EL PRÍNCIPE CALAVERA» (origen · amenaza local)
+## ACTO I · ORIGEN
 
-- **Prólogo:** el niño que veía cosas — infancia **comprimida en 3-4 viñetas** (esqueletos en el centro, sollozos nocturnos, la sonrisa de la abuela; la muerte del gato un año atrás). NO capítulos completos (fix de pacing #1).
-- **Cap 1:** Guadalajara presente: cómic *Guardianes de Almas*, chūnibyō, cabello teñido, clase de César, Sofía, maullidos de Miztón; encuentro folklórico ligero (alebrije de bajo riesgo) para tono.
-- **Cap 2:** El museo; la trampa de Sofía; transformación y monólogo (Sexto Sol, Tzitzimimeh, Xibalbá, el abuelo); **reveal: hijo de Quetzalcóatl**; César y el macuahuitl.
-- **Cap 3:** «Ya es hora»: revelación completa de Alejandra (padre, línea Calavera, Don Aurelio); **la Pluma despierta DORMIDA/vacía**; primer entrenamiento; el gato habla (reveal parcial de Xólotl).
-- **Cap 4:** Segundo ataque (Don Aurelio escala); Xólotl rompe camuflaje y AÚN no basta; **Rias lo salva**; casi muere → reencarnación (híbrido semidiós-devil).
-- **Cap 5:** Viaje a Kuoh; primera escena ORC (gancho del Vol II); **epílogo en México: la junta diplomática abre — y Don Aurelio sonríe en la cabecera.**
+### VOLUMEN 1 — «EL PRÍNCIPE CALAVERA» (Guadalajara)
+- **Prólogo:** viñetas de infancia (esqueletos en el centro, sollozos, la abuela, la muerte del gato).
+- **Cap 1:** presente geek/chūnibyō; César; Sofía; Miztón; alebrije de bajo riesgo.
+- **Cap 2:** museo; trampa de Sofía; monólogo del Sexto Sol; reveal Quetzalcóatl; macuahuitl de César.
+- **Cap 3:** «ya es hora» (Alejandra); **Pluma dormida/vacía**; el gato habla (Xólotl parcial).
+- **Cap 4:** segundo ataque; Xólotl no basta; **Rias lo salva**; reencarnación híbrida.
+- **Cap 5 · INTERLUDIO DÍA DE MUERTOS (fijado en Vol I):** Rias y parte del ORC se quedan al festival (cortesía diplomática + ofrenda de la familia). Xólotl a plena potencia; **Akeno VISLUMBRA el alma de su madre** (reconciliación completa: volumen posterior); **ataque del culto durante el festival** = el caos del abuelo que el usuario pidió para Vol I (Don Aurelio se muestra).
+- **Cap 6 / epílogo:** viaje a Kuoh; **la junta abre con Don Aurelio en la cabecera.**
 
-## VOLUMEN II — «ACADEMIA KUOH» (casa · amenaza de facción/sociedad)
+## ACTO II · KUOH (sociedad devil)
 
-- **Slice of life / ecchi / entrenamiento:** estudiante transferido, dinámica ORC, entrenamiento devil + mecánica de la Pluma, reglas de Rating Game, gags (estatura, chūnibyō, día de la playera de Chivas).
-- **Espina A (eco del canon, doc 23):** sombra del compromiso Rias–Riser → **clímax del Vol II = Rating Game vs Riser**; Jesús se prueba como pieza; semilla de confianza/romance con Rias.
-- **Interludio espina B (noviembre):** **Día de Muertos** — el ORC viaja a Guadalajara (festival de la Alianza / cobertura diplomática): Akeno y el alma de su madre (doctrina, regla 4); Xólotl a plena potencia; torneo-exhibición de lucha (arco C); descubren el sabotaje de Don Aurelio.
-- **Giro final:** la junta **FALLA**; se fija la fecha del eclipse; vanguardia Tzitzimimeh llega a Japón. (Fix #2: el Vol II no suelta a México.)
+### VOLUMEN 2 — «ACADEMIA KUOH»
+- Transferido; slice of life/ecchi; entrenamiento devil + mecánica de la Pluma; gags (estatura, Chivas, chūnibyō).
+- **Eco canon:** incidente del **devil liberado/extraviado** (primer conflicto del canon) = primer combate de Jesús como devil.
+- Hilo B: espías del culto en Kuoh; la junta se sabotea en las sombras.
 
-## VOLUMEN III — «EL SEXTO SOL» (colisión · amenaza mundial)
+### VOLUMEN 3 — «LA MANO DE RIAS»
+- **Eco canon:** sombra del compromiso **Rias–Riser** → clímax = **Rating Game vs Riser**; Jesús se prueba como pieza; semilla romance.
+- Hilo B: Don Aurelio mueve piezas desde México; primer roce político Alianza–Gremory por el híbrido.
 
-- **Acto 1:** grietas en Japón; células del culto + aliados villanos DxD (semilla Khaos Brigade); Azazel estudia la Pluma; presión de la Iglesia (doctrina regla 2).
-- **Acto 2:** Misión: **los Nueve Niveles del Mictlán** guiados por Miztón — para **completar la Pluma** (la llama del padre / bendición de Mictlantecuhtli): payoff de "la Pluma vacía".
-- **Acto 3:** Clímax personal: Jesús vs **Don Aurelio** ("¿cuál Calavera eres?"); la elección de Sofía (redención si se adopta la alternativa de rehén, doc 29 §6.7b).
-- **Acto 4:** **El eclipse:** descienden las Tzitzimimeh; Alianza + ORC + Tres Facciones; **power couple Rias + Jesús**; Xólotl en forma verdadera; **despertar parcial de Quetzalcóatl** (la fe devuelta por el hijo); el eclipse se detiene.
-- **Epílogo:** nueva normalidad + ganchos de Temporada 2: la Facción del Antiguo Maou movía hilos del culto; Xibalbá (arco F); circuito pro / era universitaria (doc 24).
+### VOLUMEN 4 — «CIELO CAÍDO»
+- **Eco canon:** arco de los **ángeles caídos** (Raynare), **rescate de Asia**, revelación de Akeno.
+- Hilo B: **la Iglesia** (que aplastó las fes mesoamericanas, doc 27) enfrenta al hijo de Quetzalcóatl → arco de culpa/reconciliación; **Azazel** pone ojo en la Pluma.
+- (Romance compatible con harem o solo-Rias: Asia/Akeno funcionan en ambos modos.)
+
+## ACTO III · COLISIÓN
+
+### VOLUMEN 5 — «LOS NUEVE NIVELES»
+- Misión mexicana-led: descenso al **Mictlán** con Miztón de guía y **elenco DxD de acompañante** (doctrina: darles escena).
+- Payoff: **completar la Pluma** (llama del padre / bendición de Mictlantecuhtli).
+- Coda: **Vali** aparece — el Hakuryūkō *siente* al "emplumado" (sinergia dragoniana, doc 27/06).
+
+### VOLUMEN 6 — «KHAOS»
+- **Eco canon:** primer choque con la **Facción de Héroes / Cao Cao** — quien según doc 27 ya buscaba las reliquias mesoamericanas → fusión natural de espinas: Cao Cao vs/aliado del culto por la **Piedra del Sol**.
+- La junta **falla**; se fija el eclipse.
+
+### VOLUMEN 7 — «EL SEXTO SOL» (final de Temporada 1)
+- Eclipse: descienden las **Tzitzimimeh**; Alianza + ORC + Tres Facciones.
+- Clímax personal: **Jesús vs Don Aurelio** ("¿cuál Calavera eres?"); la elección de Sofía.
+- **Power couple Rias + Jesús**; Xólotl en forma verdadera; **despertar parcial de Quetzalcóatl**.
+- **Epílogo/ganchos Temporada 2:** la Facción del Antiguo Maou movía hilos; **Xibalbá** (arco F); sombras de Trihexa; circuito pro/universidad (doc 24).
 
 ---
 
-## FIXES DE PACING APLICADOS AL BOCETO DEL USUARIO
+## TEMPORADA 2 (ganchos, sin desarrollar aún)
+Kioto/Yasaka, Loki, torneo internacional de Rating Games, era universitaria, Xibalbá, Trihexa.
 
-1. **Sobrecarga del Vol I** → infancia a prólogo/viñetas; el Vol I corre a velocidad de presente.
-2. **Vol II sin México** → interludio de Día de Muertos con el ORC en Guadalajara + fallo de la junta como giro final.
-3. **La junta como hilo de trilogía:** abre (epílogo Vol I) → se sabotea (Vol II) → falla (giro II→III) → consecuencias (Vol III). El abuelo queda "a la cabeza de todo" a través de los tres volúmenes sin reventar el Vol I.
+## DECISIONES FIJADAS ESTE TURNO
+1. Infancia = **prólogo de viñetas** ✔.
+2. **Día de Muertos en Vol I** ✔ (Akeno: vislumbre ahora, reconciliación después).
+3. Harem **sin definir** (pendiente doc 13) 😏.
+4. **Expansión autorizada** con eventos canon ✔.
 
-## ABIERTOS QUE AFECTAN LA ESTRUCTURA
-
-1. **Alcance del harem** (doc 13): solo-Rias vs harem centrado en Rias → define asignación de capítulos del Vol II (arcos de Akeno/Koneko/etc. como beats románticos o de amistad).
-2. Infancia: ¿prólogo de viñetas (recomendado) o capítulos completos?
-3. ¿Interludio de Día de Muertos en Vol II (recomendado)?
-4. Alternativas del doc 29 §6.7 siguen en mesa (Sofía rehén; doble beat del rescate ya integrado en Cap 4).
-5. **Formato del regalo:** ¿trilogía completa como meta, o Vol I como regalo de cumpleaños con promesa de más? Define longitud objetivo por volumen.
+## ABIERTOS
+1. Aprobación del mapa de 7 volúmenes.
+2. Checklist canon del hermano: ¿qué eventos NO pueden faltar? (Propuestos ya: Riser ✔, ángeles caídos/Asia ✔, Vali ✔, Cao Cao ✔; candidatos Temporada 2: Kioto, Loki, torneo.)
+3. Harem (cuando se defina, ajusta espinas románticas de Vols 2–4).
+4. Formato del regalo: ¿Vol 1 como regalo físico con promesa de saga?
 
 ## REFERENCIAS CRUZADAS
-Docs 01 (escalada), 23 (cronología canon / Riser), 27 (arcos A–F), 29 (trasfondo y doctrina), 17 (Rating Game), 21 (calendario escolar JP: noviembre), 13 (decisiones pendientes).
+Docs 01, 21, 23, 24, 27, 29, 13, 17.

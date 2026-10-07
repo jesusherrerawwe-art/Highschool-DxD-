@@ -52,7 +52,7 @@ Reglas de oro al usarla:
 | 27 | `27-mexico-integracion.md` | Diseño de integración de México: facción mesoamericana, criaturas como héroes/villanos/antihéroes, sistemas de poder, arcos y localizaciones. |
 | 28 | `28-jesus-diseno-visual-v0.md` | Jesús Reyes — diseño visual y núcleo (v1): físico, Miztón, chūnibyō, decisiones fijadas y preguntas abiertas. |
 | 29 | `29-jesus-trasfondo-v0.md` | Jesús — trasfondo y origen (v1): outline Percy, 5 decisiones cerradas, Miztón=Xólotl, junta diplomática y doctrina de equilibrio DxD/México. |
-| 30 | `30-estructura-volumenes-v0.md` | Estructura de la historia: trilogía "Reyes Calavera" (v0) — esqueleto por volúmenes/capítulos, fixes de pacing y abiertos. |
+| 30 | `30-estructura-volumenes-v0.md` | Estructura (v1): trilogía expandida a 7 volúmenes en 3 macro-actos, integración de eventos canon, Día de Muertos en Vol I y ganchos de Temporada 2. |
 
 ---
 
