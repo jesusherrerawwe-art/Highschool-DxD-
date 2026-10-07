@@ -54,8 +54,10 @@ Reglas de oro al usarla:
 | 29 | `reyes-calavera/29-jesus-trasfondo-v0.md` | Jesús — trasfondo y origen (v1): outline Percy, 5 decisiones cerradas, Miztón=Xólotl, junta diplomática y doctrina de equilibrio DxD/México. |
 | 30 | `reyes-calavera/30-estructura-volumenes-v0.md` | Estructura (v1): trilogía expandida a 7 volúmenes en 3 macro-actos, integración de eventos canon, Día de Muertos en Vol I y ganchos de Temporada 2. |
 | 31 | `reyes-calavera/31-elenco-volumen-1.md` | Elenco del Vol 1: fichas de Alejandra, Lupita, César, Don Aurelio y Sofía + mapa de relaciones y chejovs. |
+| 32 | `reyes-calavera/32-pitch-volumen-1.md` | Pitch del Vol 1 «El Príncipe Calavera»: logline, promesa al lector, formato/voz, estructura y ganchos. |
+| 33 | `reyes-calavera/33-bitacora-de-escritura.md` | Bitácora: decisiones de una línea tomadas al vuelo durante la escritura (memoria, no diseño). |
 
-> 📁 **Carpeta compañera:** los docs 13 y 28–31 viven en `reyes-calavera/` (expediente del protagonista y de la novela), separados de la biblia de lore por petición del usuario. La biblia (00–27) es solo el mundo de DxD.
+> 📁 **Carpeta compañera:** los docs 13 y 28–33 viven en `reyes-calavera/` (expediente del protagonista y de la novela), separados de la biblia de lore por petición del usuario. La biblia (00–27) es solo el mundo de DxD. **La prosa de la novela vive en `novela/`** (p. ej. `novela/volumen-1/00-prologo.md`).
 
 ---
 
