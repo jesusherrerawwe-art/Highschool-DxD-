@@ -1,6 +1,6 @@
 # 32 · PITCH — VOLUMEN 1 «EL PRÍNCIPE CALAVERA»
 
-> **Serie:** *The Reyes Chronicles* (fan-novela de Highschool DxD). **Lector objetivo:** el hermano (fan obsesivo de Rias) + cualquier lector de LN. **Estado: v1** (2026-10-07).
+> **Serie:** *The Reyes Chronicles / Las Crónicas de Reyes* (fan-novela de Highschool DxD). **Autor (seudónimo):** Itztli Huentitán. **Lector objetivo:** el hermano (fan obsesivo de Rias) + cualquier lector de LN. **Estado: v1** (2026-10-07).
 
 ## LOGLINE
 Un geek tapatío de 16 años que ve las criaturas del folklore mexicano descubre que es **hijo de Quetzalcóatl** cuando un culto que sirve a demonios estelares intenta sacrificarlo; salvado in extremis por una demonio pelirroja, viaja a la Academia Kuoh con una Sacred Gear dormida, un dios-tío en forma de gato y un alias de chūnibyō que aparece, palabra por palabra, en la profecía del enemigo.

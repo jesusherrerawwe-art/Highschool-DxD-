@@ -10,3 +10,5 @@
 - **2026-10-07** · Calendario Vol 1: museo ≈ mediados de octubre; festival 1-2 nov; partida a Kuoh mediados de nov (2º semestre). Jesús: 16 años → **2º de preparatoria** (grado canon de Issei), grupo 2-B.
 - **2026-10-07** · Idioma: el **don de lenguas de los demonios** (doc 03) explica el japonés de Jesús; beat cómico al llegar a Kuoh ("¿desde cuándo entiendo japonés? — Desde que te volviste mío, nya", Xólotl).
 - **2026-10-07** · Frontmatter: Nota de fan añadida (`novela/volumen-1/00-nota-de-fan.md`). Dedicatoria pendiente de nombres.
+- **2026-10-07** · TÍTULO OFICIAL: serie = *Las Crónicas de Reyes / The Reyes Chronicles*; Vol 1 = «El Príncipe Calavera». Seudónimo del autor = **Itztli Huentitán**. Dedicatoria = Para Jesús «El Chavo» Gutiérrez.
+- **2026-10-07** · Cap 1 escrito: siembra menor = eclipse parcial "anunciado en la TV" para inicios de nov (cosecha Cap 4-5); César usa el apodo «Príncipe Calavera» con cariño en clase (el alias es semi-público); el meow nocturno continúa como rutina (dramatic irony).
