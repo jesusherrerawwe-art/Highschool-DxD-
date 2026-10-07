@@ -47,6 +47,8 @@ Reglas de oro al usarla:
 | 22 | `22-glosario-japones-espanol.md` | Índice JP→ES de todos los términos originales documentados. |
 | 23 | `23-cronologia-expandida.md` | La cronología canónica con detalle beat-a-beat por arco/volumen. |
 | 24 | `24-elenco-expandido.md` | Fichas rápidas del elenco adicional: peerage de Riser completa, dioses, circuito profesional, era universitaria. |
+| 25 | `25-casas-nobles-compendio.md` | Compendio político de las casas nobles del Inframundo + semillas de intriga. |
+| 26 | `26-anime-vs-novela.md` | Diferencias anime/novela y qué canon usar al escribir. |
 
 ---
 
