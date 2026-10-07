@@ -49,6 +49,7 @@ Reglas de oro al usarla:
 | 24 | `24-elenco-expandido.md` | Fichas rápidas del elenco adicional: peerage de Riser completa, dioses, circuito profesional, era universitaria. |
 | 25 | `25-casas-nobles-compendio.md` | Compendio político de las casas nobles del Inframundo + semillas de intriga. |
 | 26 | `26-anime-vs-novela.md` | Diferencias anime/novela y qué canon usar al escribir. |
+| 27 | `27-mexico-integracion.md` | Diseño de integración de México: facción mesoamericana, criaturas como héroes/villanos/antihéroes, sistemas de poder, arcos y localizaciones. |
 
 ---
 
