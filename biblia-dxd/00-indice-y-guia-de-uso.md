@@ -50,6 +50,7 @@ Reglas de oro al usarla:
 | 25 | `25-casas-nobles-compendio.md` | Compendio político de las casas nobles del Inframundo + semillas de intriga. |
 | 26 | `26-anime-vs-novela.md` | Diferencias anime/novela y qué canon usar al escribir. |
 | 27 | `27-mexico-integracion.md` | Diseño de integración de México: facción mesoamericana, criaturas como héroes/villanos/antihéroes, sistemas de poder, arcos y localizaciones. |
+| 28 | `28-jesus-diseno-visual-v0.md` | Jesús Reyes — diseño visual (borrador v0): elementos extraídos, ganchos narrativos y preguntas abiertas. |
 
 ---
 
