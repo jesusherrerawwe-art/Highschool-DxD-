@@ -35,7 +35,7 @@ Reglas de oro al usarla:
 | 10 | `10-localizaciones.md` | El mapa del mundo: la Ciudad de Kuoh, la Academia Kuoh, el Inframundo y sus ciudades, el Cielo, el Infierno griego, Niflheim, Kioto y demás escenarios. |
 | 11 | `11-cronologia.md` | Línea temporal completa: desde la Gran Guerra hasta el final de la novela, arco por arco y volumen por volumen. |
 | 12 | `12-glosario.md` | Glosario alfabético español ↔ japonés ↔ inglés de todos los términos clave. |
-| 13 | `13-notas-de-adaptacion-self-insert.md` | Notas preliminares para adaptar el mundo al self-insert de Jesús Reyes y al tono ecchi (se ampliará cuando definamos la historia). |
+| 13 | `reyes-calavera/13-notas-de-adaptacion-self-insert.md` | Notas preliminares para adaptar el mundo al self-insert de Jesús Reyes y al tono ecchi (se ampliará cuando definamos la historia). |
 | 14 | `14-fuentes.md` | Todas las fuentes consultadas, con enlaces y nivel de fiabilidad. |
 | 15 | `15-compendio-tecnicas-y-ataques.md` | Técnicas nombradas del canon por personaje + receta para inventar ataques con el patrón oficial. |
 | 16 | `16-compendio-sacred-gear.md` | Sacred Gear no-Longinus, artificiales del Grigori, taxonomía y guía de creación. |
@@ -50,9 +50,11 @@ Reglas de oro al usarla:
 | 25 | `25-casas-nobles-compendio.md` | Compendio político de las casas nobles del Inframundo + semillas de intriga. |
 | 26 | `26-anime-vs-novela.md` | Diferencias anime/novela y qué canon usar al escribir. |
 | 27 | `27-mexico-integracion.md` | Diseño de integración de México: facción mesoamericana, criaturas como héroes/villanos/antihéroes, sistemas de poder, arcos y localizaciones. |
-| 28 | `28-jesus-diseno-visual-v0.md` | Jesús Reyes — diseño visual y núcleo (v1): físico, Miztón, chūnibyō, decisiones fijadas y preguntas abiertas. |
-| 29 | `29-jesus-trasfondo-v0.md` | Jesús — trasfondo y origen (v1): outline Percy, 5 decisiones cerradas, Miztón=Xólotl, junta diplomática y doctrina de equilibrio DxD/México. |
-| 30 | `30-estructura-volumenes-v0.md` | Estructura (v1): trilogía expandida a 7 volúmenes en 3 macro-actos, integración de eventos canon, Día de Muertos en Vol I y ganchos de Temporada 2. |
+| 28 | `reyes-calavera/28-jesus-diseno-visual-v0.md` | Jesús Reyes — diseño visual y núcleo (v1): físico, Miztón, chūnibyō, decisiones fijadas y preguntas abiertas. |
+| 29 | `reyes-calavera/29-jesus-trasfondo-v0.md` | Jesús — trasfondo y origen (v1): outline Percy, 5 decisiones cerradas, Miztón=Xólotl, junta diplomática y doctrina de equilibrio DxD/México. |
+| 30 | `reyes-calavera/30-estructura-volumenes-v0.md` | Estructura (v1): trilogía expandida a 7 volúmenes en 3 macro-actos, integración de eventos canon, Día de Muertos en Vol I y ganchos de Temporada 2. |
+
+> 📁 **Carpeta compañera:** los docs 13 y 28–30 viven en `reyes-calavera/` (expediente del protagonista y de la novela), separados de la biblia de lore por petición del usuario. La biblia (00–27) es solo el mundo de DxD.
 
 ---
 

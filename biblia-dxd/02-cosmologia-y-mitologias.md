@@ -64,7 +64,7 @@ Conflicto total entre las tres facciones: **Dios + ángeles** vs **Cuatro Reyes 
 - **El Dios de la Biblia muere.**
 - **Los Cuatro Grandes Reyes Demonio originales mueren** (Lucifer, Belcebú, Leviatán, Asmodeo).
 - Los ángeles pierden la capacidad de reproducirse con normalidad y de conceder bendiciones plenas.
-- Los demonios pierden casi todos sus ejércitos; de los 72 Pilares se extinguen unos 39 clanes (≈54 %).
+- Los demonios pierden casi todos sus ejércitos; de los 72 Pilares se extinguen unos 39 clanes en la Gran Guerra (≈54 %); el total de casas extintas llega hoy a 40, con 32 activas (ver doc. 04).
 - Los caídos quedan diezmados (sus líderes sobreviven).
 
 ### 3.3 Consecuencias (el mundo que hereda la historia)

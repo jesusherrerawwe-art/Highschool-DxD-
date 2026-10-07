@@ -60,5 +60,5 @@ Púrpura/violeta en el arte. **Sigue en propuesta** (ver §7): se recomienda can
 
 - Doc 07 — ficha maestra de Jesús (pendiente de cierre de poder).
 - Doc 13 — self-insert y decisiones de historia.
-- Doc 27 — México: alebrijes §5.3, ofrenda §5.2, Arco B y D, sensibilidad §10.
+- Doc 27 — México: alebrijes §3.1, ofrenda §4 (ítem 2), máscaras §4.3, obsidiana §4.4, Arco B y D §7, sensibilidad §10.
 - Re:Zero — dinámica Puck–Emilia como referencia de tono para Miztón.
