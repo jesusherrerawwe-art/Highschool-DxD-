@@ -92,6 +92,8 @@ Kioto/Yasaka, Loki, torneo internacional de Rating Games, era universitaria, Xib
 | Micro-vacilación / recuerdos comidos de Sofía | V1 Cap 2 | Vol 7: elección/redención |
 | Hermana perdida de César | V1 (semilla, doc 31 §3) | Temporada 2 |
 | Vislumbre de La Planchada por Alejandra | V1 (semilla, doc 31 §1) | Escena hospital futura |
+| «Saludar es querer; exigir es otra cosa» (Lupita) | V1 Cap 1 | Confrontación temática con Aurelio, Vol 7 |
+| Calaverita de azúcar del alebrije / dibujar como canal | V1 Cap 1 | Semilla del tonal; Vol 5+ |
 
 ## DECISIONES FIJADAS ESTE TURNO
 1. Infancia = **prólogo de viñetas** ✔.
