@@ -45,7 +45,7 @@
 
 ### VOLUMEN 5 — «LOS NUEVE NIVELES»
 - Misión mexicana-led: descenso al **Mictlán** con Miztón de guía y **elenco DxD de acompañante** (doctrina: darles escena).
-- Payoff: **completar la Pluma** (llama del padre / bendición de Mictlantecuhtli).
+- Payoff: **completar la Pluma** — [🎁 RESOLUCIÓN SELLADA: se diseña en la sesión de escritura del Vol 5; debe ser DISTINTA de cualquier candidato filtrado en chat; no documentar antes. El usuario quiere sorpresa.]
 - Coda: **Vali** aparece — el Hakuryūkō *siente* al "emplumado" (sinergia dragoniana, doc 27/06).
 
 ### VOLUMEN 6 — «KHAOS»
@@ -63,17 +63,39 @@
 ## TEMPORADA 2 (ganchos, sin desarrollar aún)
 Kioto/Yasaka, Loki, torneo internacional de Rating Games, era universitaria, Xibalbá, Trihexa.
 
+## LIBRO DE CHEJOV (foreshadowing: siembra → cosecha)
+
+> Herramienta de memoria del proyecto: toda siembra registrada DEBE cosecharse; toda cosecha debe rastrear su siembra. Se actualiza en cada sesión de diseño/escritura.
+
+| Chejov | Siembra | Cosecha |
+|---|---|---|
+| Medallón de la abuela | V1 Cap 3 | Vol 7: lo aprieta antes de enfrentar a Don Aurelio (caracterización, NUNCA magia) |
+| Alias «Príncipe Calavera» / «¿cuál Calavera eres?» | V1 | V7: clímax personal |
+| Pluma dormida/vacía | V1 Cap 3 | V5: [🎁 RESOLUCIÓN SELLADA] |
+| Vislumbre de Akeno (alma de su madre) | V1 Cap 5 | Volumen posterior TBD (candidato: Vol 4+ o Temporada 2) |
+| Vacilación de Sofía | V1 Caps 2/4 | V7: su elección |
+| Sonrisa de Don Aurelio en la junta | V1 epílogo | V6 fallo de la junta / V7 confrontación |
+| Forma verdadera de Xólotl | V1 Cap 4 (parcial) | V1 Cap 5 festival + V7 |
+| *Guardianes de Almas* inquietantemente preciso | V1 Cap 1 | TBD (semilla de autoría, doc 29 §6.6) |
+| Vali «siente al emplumado» | V5 coda | Temporada 2 |
+| «Mi forma verdadera mide dos metros» (gag chūnibyō) | Vols 1-2 | V7: su aura/presencia SÍ se vuelve imponente — el chūnibyō hecho verdad |
+| «Aquí solo juegan mexicanos» (Chivas) | V1 | V3: gag de presentación en Rating Game; V7: eco serio |
+| «¡Lo sabía! ¡Página 47!» (predicciones chūnibyō) | V1 | V7: el día que deje de narrar = clímax emocional |
+| Híbrido semidiós-devil (tensión política Alianza–Gremory) | V1 Cap 4 | Vols 3 y 6: roces diplomáticos |
+
 ## DECISIONES FIJADAS ESTE TURNO
 1. Infancia = **prólogo de viñetas** ✔.
 2. **Día de Muertos en Vol I** ✔ (Akeno: vislumbre ahora, reconciliación después).
 3. Harem **sin definir** (pendiente doc 13) 😏.
 4. **Expansión autorizada** con eventos canon ✔.
+5. **Resolución de la Pluma SELLADA** (sorpresa del usuario; no documentar hasta sesión Vol 5; debe diferir de candidatos filtrados).
+6. **Formato:** Vol 1 = regalo de cumpleaños; Vols 2–7 = promesa de saga.
 
 ## ABIERTOS
 1. Aprobación del mapa de 7 volúmenes.
 2. Checklist canon del hermano: ¿qué eventos NO pueden faltar? (Propuestos ya: Riser ✔, ángeles caídos/Asia ✔, Vali ✔, Cao Cao ✔; candidatos Temporada 2: Kioto, Loki, torneo.)
 3. Harem (cuando se defina, ajusta espinas románticas de Vols 2–4).
-4. Formato del regalo: ¿Vol 1 como regalo físico con promesa de saga?
+4. **Formato del regalo (decidido por el agente, con autorización del usuario):** **Vol 1 = regalo de cumpleaños** (objeto cerrado y redondo); Vols 2–7 = plan de saga en promesa. Razón: un regalo debe sentirse terminado, y que el hermano "quiera leer más" es el mejor resultado posible → la serialización es feature, no deuda.
 
 ## REFERENCIAS CRUZADAS
 Docs 01, 21, 23, 24, 27, 29, 13, 17.
