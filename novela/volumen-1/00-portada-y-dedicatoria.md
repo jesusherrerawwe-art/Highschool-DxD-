@@ -9,9 +9,5 @@ por **Itztli Huentitán**
 
 ---
 
-> Para Jesús **«El Chavo»** Gutiérrez —
-> que nunca deje de ver lo que los demás no ven.
-
----
-
+*La dedicatoria vive en el README del proyecto.*
 *Nota legal y de fans: ver `00-nota-de-fan.md`.*
